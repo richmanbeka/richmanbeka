@@ -86,9 +86,7 @@ I believe the best way to become a better developer is to keep building, experim
 
 <p align="center">
 
-<a href="https://open.spotify.com/user/31kaiugs256vfv64vmna42c44zbe">
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
+
 
 <br><br>
 

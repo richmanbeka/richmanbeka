@@ -1,48 +1,58 @@
-# 👋 Hey, I'm Robera Mulugeta
+<div align="center">
 
-### 💻 Full-Stack Developer • Software Engineering Student
+# 👋 Hi, I'm Robera Mulugeta
 
-I’m a **Software Engineering student and Full-Stack Developer** passionate about building modern, useful, and scalable web applications.
+### 💻 Full-Stack Developer | 🎓 Software Engineering Student
 
-I enjoy turning ideas into clean interfaces, reliable backend systems, and complete digital experiences — from the first line of code to the final deployment.
+**Building modern web applications • Learning every day • Turning ideas into code**
 
-> *“Build things that solve real problems. Keep learning. Keep shipping.”* 🚀
+<p>
+  <a href="https://github.com/richmanbeka">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
+I'm a **Software Engineering student and Full-Stack Developer** passionate about creating modern, useful, and scalable software.
+
+I enjoy working across the entire development process — from designing interfaces and writing frontend applications to building backend APIs, databases, and development environments.
+
 * 🎓 Software Engineering Student
 * 💻 Full-Stack Developer
-* 🌱 Always learning and improving
-* 🎨 Interested in UI/UX & product design
+* 🌱 Constantly learning and improving
+* 🎨 Interested in UI/UX and product design
 * 🐳 Exploring DevOps and modern development workflows
-* 🎵 Music is part of the development process
-* 📖 Curious about technology, software, and the world around me
+* 🎵 Coding is better with music
+* 🚀 Building, experimenting, and shipping
 
 ---
 
 ## ⚡ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,java" />
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-### DevOps & Tools
+### 🛠️ DevOps & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" />
@@ -50,73 +60,91 @@ I enjoy turning ideas into clean interfaces, reliable backend systems, and compl
 
 ---
 
-## 🐍 Contribution Activity
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/richmanbeka/richmanbeka/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=richmanbeka&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richmanbeka&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=richmanbeka&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🎧 Coding With Music
-
-> *Good code needs good background music.* 🎶
+## 🐍 Contribution Activity
 
 <p align="center">
-  <a href="https://open.spotify.com/">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
-  </a>
+  <img src="https://raw.githubusercontent.com/richmanbeka/richmanbeka/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
-
-*🎵 Spotify profile coming soon...*
 
 ---
 
 ## 🌱 Currently Learning
 
 ```text
-Full-Stack Development  ████████████████████░░  90%
-TypeScript               ██████████████████░░░░  85%
-Next.js                  ██████████████████░░░░  85%
-Backend Development      ████████████████░░░░░░  75%
-DevOps                   █████████████░░░░░░░░░  60%
-System Design            ███████████░░░░░░░░░░░  50%
+Full-Stack Development
+TypeScript & Next.js
+Backend Architecture
+Database Design
+Docker & DevOps
+System Design
+UI/UX Design
 ```
 
 ---
 
-## 🎯 My Developer Mindset
+## 🧠 Developer Mindset
 
 ```text
 Learn → Build → Break → Debug → Improve → Repeat
 ```
 
-I'm focused on becoming a stronger engineer by building real things, understanding how systems work, and continuously improving my development skills.
+> Great software isn't built in one day.
+> It's built one improvement at a time. 🚀
+
+---
+
+## 🎧 Coding With Music
+
+<p align="center">
+
+🎵 <b>Music + Code = Better Focus</b> 🎵
+
+<br><br>
+
+<a href="https://open.spotify.com/">
+  <img src="https://img.shields.io/badge/Spotify-Coding%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
+</p>
+
+*Spotify profile coming soon...*
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_GITHUB_URL">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR_TELEGRAM_URL">
-    <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="YOUR_TELEGRAM_URL">
+<img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+
 </p>
 
 ---
 
-<p align="center">
-  <i>Thanks for stopping by 👋</i>
-  <br/>
-  <br/>
-  <b>Code. Create. Learn. Repeat. 🚀</b>
-</p>
+<div align="center">
+
+### 💻 Code. Create. Learn. Repeat. 🚀
+
+⭐ Thanks for visiting my profile!
+
+</div>

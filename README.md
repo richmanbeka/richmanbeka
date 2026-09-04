@@ -4,9 +4,6 @@
 Full-Stack Developer | Software Engineering Student
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=richmanbeka&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
@@ -47,14 +44,6 @@ I'm a **Software Engineering student** and aspiring **Full-Stack Developer** who
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=richmanbeka&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

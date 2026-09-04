@@ -51,15 +51,6 @@ I'm a **Software Engineering student** and aspiring **Full-Stack Developer** who
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richmanbeka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richmanbeka&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">

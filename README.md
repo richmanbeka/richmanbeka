@@ -4,7 +4,6 @@
 Full-Stack Developer | Software Engineering Student
 </h3>
 
-
 ---
 
 ## 👨‍💻 About Me
@@ -48,6 +47,7 @@ I'm a **Software Engineering student** and aspiring **Full-Stack Developer** who
 
 ---
 
+
 ## 🐍 Contribution Activity
 
 <p align="center">
@@ -87,7 +87,7 @@ I believe the best way to become a better developer is to keep building, experim
 <p align="center">
 
 <a href="https://open.spotify.com/user/31kaiugs256vfv64vmna42c44zbe">
-  <img src="https://img.shields.io/badge/Spotify-My%20Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
 <br><br>
@@ -109,15 +109,15 @@ I believe the best way to become a better developer is to keep building, experim
 <p align="center">
 
 <a href="mailto:lilbeka33@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/richmanbeka/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://t.me/richmanbeka">
-  <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -133,4 +133,3 @@ I believe the best way to become a better developer is to keep building, experim
 <p align="center">
   <b>Let's build something amazing together.</b>
 </p>
-

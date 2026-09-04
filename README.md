@@ -93,7 +93,7 @@ I believe the best way to become a better developer is to keep building, experim
 <br><br>
 
 <a href="https://open.spotify.com/user/31kaiugs256vlf64vmna42c44zbe">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kaiugs256vlf64vmna42c44zbe&cover_image=true&theme=default&border_radius=10&show_offline=false" width="500" alt="Spotify Now Playing" />
+  <img src="https://img.shields.io/badge/Listen_to_me_on-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
 <br>

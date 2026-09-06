@@ -121,7 +121,9 @@ I believe the best way to become a better developer is to keep building, experim
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="http://richmanbeka.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
 </p>
 
